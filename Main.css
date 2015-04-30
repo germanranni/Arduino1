@@ -1,0 +1,17 @@
+#CSSPrender{
+    height: 40px;
+    width: 60px;
+    color: darkgreen;
+}
+
+#CSSCirculo {
+    height:100px;
+    width:100px;
+    background-color:black;
+    border-radius:50px;
+}
+
+.PrenderCirculo
+{
+    background-color:red;
+}

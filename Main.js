@@ -1,5 +1,13 @@
 var main = function(){
    
+    $('#CSSPrender').click(function(){
+        
+        //alert("Prender");
+        
+        //$('CSSCirculo').toggleClass('PrenderCirculo');
+        $('div').toggleClass('PrenderCirculo');
+    });
+    
 };
 
 
